@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bangda.kemendagri.go.id/js/slot-pulsa/sitemap.xml
+Sitemap: https://bangda.kemendagri.go.id/assets/slot-gacor/sitemap.xml
